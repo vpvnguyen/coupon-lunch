@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;  
+}
+  
+.bg { 
+    /* The image used */
+    background-image: url("../img/confetti.png");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+#gift {
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+}
+#claim {
+    font-size: 40px;
+}
